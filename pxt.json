@@ -1,5 +1,5 @@
 {
-    "name": "I2C-test 2",
+    "name": "I2C-test 4",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -10,7 +10,8 @@
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "main.py"
     ],
     "testFiles": [
         "test.ts"
